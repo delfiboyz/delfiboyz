@@ -14,7 +14,7 @@
 - 🔭 Currently working on: **Freight Calculator (Django + Vue)**  
 - 🌱 Learning: **Golang, Laravel, and API integrations**  
 - 💡 Interests: System design, automation, and performance optimization  
-- 📫 Reach me: **[your email] | [your LinkedIn or Instagram]**  
+- 📫 Reach me: contact@delfifikrimukarom.io | @delfi_boyz_morningstar
 - ⚡ Fun fact: I debug with coffee ☕ and music 🎧  
 
 ---
