@@ -30,10 +30,10 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delfifikri&theme=radical&show_icons=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=delfifikri&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=delfiboyz&theme=radical&show_icons=true&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=delfiboyz&theme=radical&hide_border=true" width="47%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfifikri&layout=compact&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfiboyz&layout=compact&theme=radical&hide_border=true" width="47%"/>
 </div>
 
 ---
