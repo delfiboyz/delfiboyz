@@ -1,63 +1,68 @@
 <!-- Banner Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Delfi+Fikri+Mukarom;Web+Developer+%7C+Tech+Enthusiast;Love+building+things+with+code!" alt="Typing SVG" align="center"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&width=700&lines=👋+Hello,+I'm+Delfi+Fikri+Mukarom;🚀+Building+the+Future+with+Code;🔭+Full-Stack+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250" alt="Coding Gif" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎯 Full-stack developer passionate about building web applications that solve real-world problems.
+<p>👨‍💻 Passionate Full-Stack Developer crafting scalable web solutions. Lover of clean code, elegant designs, and data-driven optimizations.</p>
 
-- 🔭 Currently working on: **Freight Calculator (Django + Vue)**  
-- 🌱 Learning: **Golang, Laravel, and API integrations**  
-- 💡 Interests: System design, automation, and performance optimization  
-- 📫 Reach me: contact@delfifikrimukarom.io | @delfi_boyz_morningstar
-- ⚡ Fun fact: I debug with coffee ☕ and music 🎧  
+<ul>
+  <li>🔭 <strong>Currently Working On:</strong> <em>Aplikasi AI Mendeteksi Ekspresi Wajah</em> — OpenCV, Machine Learning, Real-time Analysis</li>
+  <li>🌱 <strong>Learning:</strong> Golang, Laravel, Advanced System Architecture</li>
+  <li>💡 <strong>Interests:</strong> Distributed Systems, DevOps Automation, Performance Tuning</li>
+  <li>📫 <strong>Reach Me:</strong> <a href="mailto:contact@delfifikrimukarom.io">contact@delfifikrimukarom.io</a> | <a href="https://instagram.com/delfi_boyz_morningstar">@delfi_boyz_morningstar</a></li>
+  <li>☕ <strong>Fun Fact:</strong> I debug code with coffee in one hand and music in the other.</li>
+</ul>
 
 ---
 
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,nuxtjs,react,python,django,go,mysql,sqlite,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,nuxtjs,react,python,django,go,mysql,sqlite,git,github,linux&perline=8" alt="Tech Icons" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delfiboyz&theme=radical&show_icons=true&hide_border=true" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=delfiboyz&theme=radical&hide_border=true" width="47%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfiboyz&layout=compact&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=delfiboyz&theme=react&show_icons=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=delfiboyz&theme=react&hide_border=true" width="45%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfiboyz&layout=compact&theme=react&hide_border=true" width="45%" />
 </div>
 
 ---
 
-## 🚀 Projects Highlight
+## 🚀 Featured Projects
 
-Here are a few projects I'm proud of:
+| Project                | Description                                              | Stack                  |
+| ---------------------- | -------------------------------------------------------- | ---------------------- |
+| **Freight Calculator** | Real-time shipping rate calculator with user management. | Django, Vue, REST API  |
+| **To-Do Manager**      | Intuitive task tracker with authentication & CRUD.       | PHP, MySQL, Bootstrap  |
+| **Laravel Blog**       | Modular blog platform with comments & categories.        | Laravel, Blade, SQLite |
 
-- 🧮 **Freight Calculator Web App** — Django backend + Nuxt.js frontend  
-- 📋 **To-Do App** — PHP + MySQL, simple CRUD with authentication  
-- 📰 **Simple Blog** — Laravel-based with comment & category features
-
-➡️ More at: [github.com/delfifikri?tab=repositories](https://github.com/delfiboyz?tab=repositories)
+🔗 <a href="https://github.com/delfiboyz?tab=repositories">Explore more projects »</a>
 
 ---
 
-## ☕ Let’s Connect!
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:contact@delfifikrimukarom.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> "Simplicity is the soul of efficiency." — Austin Freeman
