@@ -46,7 +46,7 @@ Here are a few projects I'm proud of:
 - 📋 **To-Do App** — PHP + MySQL, simple CRUD with authentication  
 - 📰 **Simple Blog** — Laravel-based with comment & category features
 
-➡️ More at: [github.com/delfifikri?tab=repositories](https://github.com/delfifikri?tab=repositories)
+➡️ More at: [github.com/delfifikri?tab=repositories](https://github.com/delfiboyz?tab=repositories)
 
 ---
 
