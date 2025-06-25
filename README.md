@@ -1,44 +1,63 @@
-<h1 align="center">Hi 👋, I'm Delfi Fikri Mukarom</h1>
+<!-- Banner Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Delfi+Fikri+Mukarom;Web+Developer+%7C+Tech+Enthusiast;Love+building+things+with+code!" alt="Typing SVG" align="center"/>
+
 <p align="center">
-  🌐 Web Developer | 💻 Programmer | 🚀 Tech Enthusiast
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on: **PHP & JavaScript-based web applications**
-- 🌱 I’m currently learning: **React, Golang, and Laravel**
-- 💬 Ask me about: `Web Development`, `REST APIs`, `Problem Solving`
-- 📫 How to reach me: **[your email or LinkedIn]**
-- ⚡ Fun fact: I love turning coffee into code ☕💻
+🎯 Full-stack developer passionate about building web applications that solve real-world problems.
 
----
-
-### 🛠️ Tech Stack
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+- 🔭 Currently working on: **Freight Calculator (Django + Vue)**  
+- 🌱 Learning: **Golang, Laravel, and API integrations**  
+- 💡 Interests: System design, automation, and performance optimization  
+- 📫 Reach me: **[your email] | [your LinkedIn or Instagram]**  
+- ⚡ Fun fact: I debug with coffee ☕ and music 🎧  
 
 ---
 
-### 📊 GitHub Stats
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delfifikri&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delfifikri&theme=radical" width="47%" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,nuxtjs,react,python,django,go,mysql,sqlite,git,github,linux" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=delfifikri&theme=radical&show_icons=true&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=delfifikri&theme=radical&hide_border=true" width="47%"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delfifikri&layout=compact&theme=radical&hide_border=true" width="47%"/>
+</div>
 
 ---
 
-> ⚙️ *This profile is built with ❤️ and ongoing curiosity about code.*
+## 🚀 Projects Highlight
+
+Here are a few projects I'm proud of:
+
+- 🧮 **Freight Calculator Web App** — Django backend + Nuxt.js frontend  
+- 📋 **To-Do App** — PHP + MySQL, simple CRUD with authentication  
+- 📰 **Simple Blog** — Laravel-based with comment & category features
+
+➡️ More at: [github.com/delfifikri?tab=repositories](https://github.com/delfifikri?tab=repositories)
+
+---
+
+## ☕ Let’s Connect!
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
